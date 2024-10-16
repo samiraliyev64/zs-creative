@@ -2,4 +2,4 @@
 
 ## Tech Stack: HTML5, CSS3, SCSS, Javascript
 
-# (https://zs-creative.netlify.app/)[DEMO]
+# [DEMO](https://zs-creative.netlify.app/)
